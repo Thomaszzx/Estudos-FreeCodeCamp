@@ -1,0 +1,38 @@
+html {
+    background-color:#ebb738;
+}
+
+#title, .subheading {
+    color: navy;
+    text-align: center;
+}
+
+p {
+    color:navy;
+    text-align: center;
+}
+
+a img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid navy;
+    border-radius: 40px;
+}
+
+.suco-wiki {
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
